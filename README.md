@@ -1,1 +1,1 @@
-# WP-CF7-Custom-Validation
+WP-CF7-Custom-Addon
