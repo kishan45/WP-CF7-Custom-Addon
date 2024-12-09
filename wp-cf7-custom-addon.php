@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Contact Form 7 Addon
-Plugin URI: https://github.com/kishan45/WP-CF7-Custom-Addon/
+Plugin URI: https://github.com/kishankotharri/WP-CF7-Custom-Addon/
 Description: Contact Form 7 Addon
 Author: Kishan Kothari
 Author URI: https://www.linkedin.com/in/kishankothari/
